@@ -14,7 +14,7 @@ export default function App() {
         <Dictionary defaultKeyword="Hello"/>
       </main>
       <footer className="App-footer">
-       This project was coded by <a href="https://hungry-mirzakhani-f66424.netlify.app" target="_blank" rel="noopener noreferrer">Aida Hamedi</a> and <a href="https://github.com/shecodesio/dictionary" target="_blank" rel="noopener noreferrer"> is open-sourced on GitHub</a> and <a href="https://shecodes-dictionary.netlify.app/" target="_blank" rel="noopener noreferrer">hosted on Netlify</a>
+       This project was coded by <a href="https://hungry-mirzakhani-f66424.netlify.app" target="_blank" rel="noopener noreferrer">Aida Hamedi</a> and <a href="https://github.com/Aida2005/React-Dictionary-App" target="_blank" rel="noopener noreferrer"> is open-sourced on GitHub</a> and <a href="https://vigorous-bohr-f3b91d.netlify.app" target="_blank" rel="noopener noreferrer">hosted on Netlify</a>
      </footer>
       </div>
     </div>
